@@ -14,7 +14,7 @@ object AppConfig {
     const val ANG_CONFIG = "ang_config"
     const val PREF_INAPP_BUY_IS_PREMIUM = "pref_inapp_buy_is_premium"
 
-    /** Preferences mapped to MMKV storage. */
+    /** Preferences mapped to MMKV stor age. */
     const val PREF_SNIFFING_ENABLED = "pref_sniffing_enabled"
     const val PREF_ROUTE_ONLY_ENABLED = "pref_route_only_enabled"
     const val PREF_PER_APP_PROXY = "pref_per_app_proxy"
